@@ -57,7 +57,7 @@
 					<serverId>docker-hub</serverId>
 					<registryUrl>https://index.docker.io/v1/</registryUrl>
 					<dockerDirectory>${project.basedir}</dockerDirectory>
-					<imageName>serkanalgl/${project.artifactId}</imageName>
+					<imageName>tinle89/${project.artifactId}</imageName>
 					<imageTags>${project.version}</imageTags>
 					<resources>
 						<resource>
